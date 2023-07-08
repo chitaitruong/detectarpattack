@@ -1,7 +1,7 @@
 <div align="center">
   
 # ARP Cache Poisoning Detection (Java Swing)
-
+ARP_POLICE is a program that monitors the ARP table in the computer, based on the change of the IP and MAC pairs in the table to give warnings when the program is attacked. The program has warning types such as **interface warning**, **email alert**, **sound alert** when detecting an attack and will log a logfile so that the administrator can detect it in time to take action
 [Network Diagram](#network-diagram) •
 [Main Screen](#main-screen) •
 [Attacked Screen](#attacked-screen-with-notification) •
